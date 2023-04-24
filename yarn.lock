@@ -659,6 +659,14 @@
   dependencies:
     "@sinonjs/commons" "^2.0.0"
 
+"@tofu-apis/common-types@*":
+  version "0.0.15"
+  resolved "https://registry.yarnpkg.com/@tofu-apis/common-types/-/common-types-0.0.15.tgz#825d1a6a05eef99003b64d5ff88bd55c4d3f929e"
+  integrity sha512-adJxrC5xkaGb6V8oQnJqZZgfaIxeSvlCtOu6OpFlkQNdW/L+Nn21EV7VTfNMk3SJ0L2w8yt0cOo5LcwaWeNXRg==
+  dependencies:
+    lodash "4.17.21"
+    yup "0.32.9"
+
 "@tofu-apis/eslint-config-ts-base@*":
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/@tofu-apis/eslint-config-ts-base/-/eslint-config-ts-base-1.0.2.tgz#687b24f9faa3ef33e8d6c915bfaf780807b5b521"

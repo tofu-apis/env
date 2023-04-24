@@ -1,9 +1,2 @@
-export type OneObject = {
-  value: 1;
-};
-
-export function getOne(): OneObject {
-  return {
-    value: 1,
-  };
-}
+export * as ProcessEnv from './process';
+export * as ViteEnv from './vite';
